@@ -1,0 +1,8 @@
+{
+  "name": "fisiopoleart-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/philipibovo/fisiopoleart-api.git",
+  "author": "Philipi Bovo",
+  "license": "MIT"
+}
